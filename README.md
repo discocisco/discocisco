@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello there 👋
+
+- 🔭 I’m Andres and I currently work on React and Typescript based applications
+- 🌱 currently learning Next.js, WebGL, & Three.js
+- 💬 Ask me about my local theater membership favorites, custom-built PC, or recent digital and fine art projects
+- 📫 How to reach me:
+  - email: f.andresort@gmail.com
+  - twitter: [@itsDiscoCisco](https://twitter.com/itsdiscocisco)
+  - instagram: [@itsDiscoCisco](https://www.instagram.com/itsdiscocisco/)
 
 <!--
 **discocisco/discocisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
